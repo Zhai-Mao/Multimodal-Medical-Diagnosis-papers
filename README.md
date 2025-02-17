@@ -6,6 +6,8 @@
 ![](./imgs/github_framework.jpg)
 ### 3.Multi-modal Fusion
 ![Overview](https://github.com/hrlblab/CS-MIL/blob/main/Cross_modality.png)<br />
+### 4.MSTNet
+![](./imgs/model.png)
 ## Citation
 ```
 
