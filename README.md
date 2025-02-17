@@ -8,6 +8,8 @@
 ![Overview](https://github.com/hrlblab/CS-MIL/blob/main/Cross_modality.png)<br />
 ### [4.MSTNet](https://github.com/JustlfC03/MSTNet/tree/main)
 ![](./imgs/model.png)
+### [5.PathOmics: Pathology-and-genomics Multimodal Transformer for Survival Outcome Prediction](https://github.com/Cassie07/PathOmics/tree/main)
+![](./imgs/Figure1.png)
 ## Citation
 ```
 
