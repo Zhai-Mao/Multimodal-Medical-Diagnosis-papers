@@ -10,6 +10,10 @@
 ![](./imgs/model.png)
 ### [5.PathOmics: Pathology-and-genomics Multimodal Transformer for Survival Outcome Prediction](https://github.com/Cassie07/PathOmics/tree/main)
 ![](./imgs/Figure1.png)
+### [6.Transformer-based Multimodal Fusion for Early Diagnosis of Alzheimer’s Disease Using Structural MRI and PET](https://github.com/Kateridge/TransMF_AD)
+### [7.Medical Diagnosis with Large Scale Multimodal Transfomer](https://github.com/firasgit/lsmt)
+### [8.Pathomic Fusion: An Integrated Framework for Fusing Histopathology and Genomic Features for Diagnosis and Prognosis](https://github.com/mahmoodlab/PathomicFusion)
+### [9.Multimodal Attention for Alzheimer's Disease Classification](https://github.com/rsinghlab/maddi)
 ## Citation
 ```
 
