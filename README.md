@@ -17,7 +17,7 @@
 ### [8.Pathomic Fusion: An Integrated Framework for Fusing Histopathology and Genomic Features for Diagnosis and Prognosis](https://github.com/mahmoodlab/PathomicFusion)
 ![](./imgs/main_fig.jpg)
 ### [9.Multimodal Attention for Alzheimer's Disease Classification](https://github.com/rsinghlab/maddi)
-<img src="https://user-images.githubusercontent.com/35315239/187262625-0f980b94-7cce-49ec-9041-421e56b67ecd.png" width="600">
+<img src="https://user-images.githubusercontent.com/35315239/187262625-0f980b94-7cce-49ec-9041-421e56b67ecd.png"width="600">
 ### [10.Code for MedFuse: Multi-modal fusion and benchmarking with clinical time-series and chest X-ray images](https://github.com/nyuad-cai/medfuse)
 
 
